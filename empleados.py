@@ -12,7 +12,6 @@ for i in range(cantidad_empleados):
         empleados_A += 1
     else:
         empleados_B += 1
-
 total_gasto_sueldos = total_sueldos
 
 print("Cantidad de empleados que cobran entre $1.000.000 y $3.000.000:", empleados_A)
