@@ -8,4 +8,4 @@ def dibujar(an,al,letra):
             print(letra,end=" ")
         print()
         
-dibujar(ancho,altura,caract)            
+dibujar(ancho,altura,caract) 
